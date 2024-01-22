@@ -1,0 +1,13 @@
+C:\Users\New\csc305\os_with_bootloader\target\x86_64-unknown-none\debug\deps\libbootloader_api-cdfea16209b0f385.rmeta: C:\Users\New\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bootloader_api-0.11.5\src\lib.rs C:\Users\New\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bootloader_api-0.11.5\src\config.rs C:\Users\New\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bootloader_api-0.11.5\src\info.rs C:\Users\New\csc305\os_with_bootloader\target\x86_64-unknown-none\debug\build\bootloader_api-13f75638f02ae273\out/concat.rs C:\Users\New\csc305\os_with_bootloader\target\x86_64-unknown-none\debug\build\bootloader_api-13f75638f02ae273\out/version_info.rs
+
+C:\Users\New\csc305\os_with_bootloader\target\x86_64-unknown-none\debug\deps\libbootloader_api-cdfea16209b0f385.rlib: C:\Users\New\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bootloader_api-0.11.5\src\lib.rs C:\Users\New\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bootloader_api-0.11.5\src\config.rs C:\Users\New\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bootloader_api-0.11.5\src\info.rs C:\Users\New\csc305\os_with_bootloader\target\x86_64-unknown-none\debug\build\bootloader_api-13f75638f02ae273\out/concat.rs C:\Users\New\csc305\os_with_bootloader\target\x86_64-unknown-none\debug\build\bootloader_api-13f75638f02ae273\out/version_info.rs
+
+C:\Users\New\csc305\os_with_bootloader\target\x86_64-unknown-none\debug\deps\bootloader_api-cdfea16209b0f385.d: C:\Users\New\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bootloader_api-0.11.5\src\lib.rs C:\Users\New\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bootloader_api-0.11.5\src\config.rs C:\Users\New\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bootloader_api-0.11.5\src\info.rs C:\Users\New\csc305\os_with_bootloader\target\x86_64-unknown-none\debug\build\bootloader_api-13f75638f02ae273\out/concat.rs C:\Users\New\csc305\os_with_bootloader\target\x86_64-unknown-none\debug\build\bootloader_api-13f75638f02ae273\out/version_info.rs
+
+C:\Users\New\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bootloader_api-0.11.5\src\lib.rs:
+C:\Users\New\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bootloader_api-0.11.5\src\config.rs:
+C:\Users\New\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bootloader_api-0.11.5\src\info.rs:
+C:\Users\New\csc305\os_with_bootloader\target\x86_64-unknown-none\debug\build\bootloader_api-13f75638f02ae273\out/concat.rs:
+C:\Users\New\csc305\os_with_bootloader\target\x86_64-unknown-none\debug\build\bootloader_api-13f75638f02ae273\out/version_info.rs:
+
+# env-dep:OUT_DIR=C:\\Users\\New\\csc305\\os_with_bootloader\\target\\x86_64-unknown-none\\debug\\build\\bootloader_api-13f75638f02ae273\\out
